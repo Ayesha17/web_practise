@@ -1,0 +1,384 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+    line-height: 1.7;
+    color: #666666;
+    font-size: 14px;
+}
+.header-top{
+    background-color: #316DC3 !important;
+}
+ul{
+    list-style:none;
+}
+li{
+    display: inline-block;
+}
+.whatsapp_image{
+    height:20px;
+}
+a:hover{
+    background-color:rgb(16, 101, 219);
+}
+
+.styled-icons.icon-sm a {
+    height: 40px;
+    line-height: 30px;
+    margin: 7px 7px 7px 0;
+    width: 40px;
+      padding: 8px;
+  font-size: 16px;
+}
+.buttonType{font-size: 11px !important;
+	background-color: #f5f5f5 ;
+	text-decoration:none;
+	color:#427900;
+}
+
+	
+
+.btn{
+    margin-right: 1px;
+    border-radius: 0px;
+    border-color:#427900;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.btn_ul{
+    display: contents;
+}
+
+li.active{border-radius: 30px;
+    background: #316DC3;
+    ;
+}
+ 
+.menuzord-menu li.active a{
+    color: white;
+}
+.menuzord-menu
+{    margin-top: 10px;
+    float: right;
+}
+.menuzord-menu  li a {
+    color: #333333;
+    padding: 8px 16px; 
+    font-size: 13px;
+    font-weight: 600;  border-radius: 30px;
+}
+.bg-silver{
+    background-color: #f7f8fa !important;
+    padding: 5px;
+}
+.logo{
+
+    height: 42px;
+}
+.marque{
+    margin-top: 12px; background-color: #316DC3; color: white; 
+}
+.marqueup{
+    margin-top: 12px; 
+    background-color: white;  
+}
+.intro_span{
+	color: #427900 ;
+	font-weight:600;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(meriweather.woff);
+ }
+h2{
+    text-align: center;
+color:#316DC3;
+}
+#about {
+    padding-bottom: 15pt ;
+    background-color: #f7f8fa !important
+}
+.section-title {
+    margin-bottom: 30px;
+}
+.para{
+    text-align: justify;
+    visibility: visible;
+    margin-bottom: 10px;
+}
+
+.title-icon-img{
+    height: 40px;
+}
+
+.paradiv {
+    line-height: 1.9;
+    margin-top: 15px !important;
+}
+
+.divider{
+    /* padding-top: 80pt; */
+    padding-bottom: 80pt;
+    background-color: #2755E9 !important;
+}
+h5{
+    font-family: 'Merriweather', serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.dividerspan{
+    color: #00FF00 !important;
+    font-size: 18px;
+}
+.section-title{
+    margin-bottom: 30px;
+}
+.title-icon{
+    max-width: 160px;
+    position: relative;
+    margin: 0px auto;
+}
+h4{
+    color: rgb(49, 109, 195);
+    font-size: 18px;
+}
+.box-shadow11 {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 8px 20px 0px;
+}
+.funfact img{
+    height: 40px;
+}
+h2{
+    font-family: 'Merriweather', serif;
+}
+.font-42{
+    font-size: 3rem !important;
+}
+
+.font-weight-500{
+    font-weight: 500  !important;
+}
+.font-weight-600{
+    font-weight: 600  !important;  
+}
+#services{
+    padding-top: 50px !important;
+}
+.mb-30 {
+    margin-bottom: 30px !important;
+}
+.p-30 {
+    padding: 30px !important;
+}
+.mt-20
+{
+    margin-top: 20px !important;
+}
+#services a{
+    color:gray; 
+}
+h3{
+    font-family: 'Merriweather', serif;
+    font-weight: 600;
+    line-height: 1.42857143;
+    color: #316DC3;
+    font-size: 24px;
+}
+
+.line-bottom {
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
+.line-bottom:after {
+    bottom: -1px;
+    content: "";
+    height: 2px;
+    left: 0;
+    background: #427900;
+    position: absolute;
+    width: 50px;
+}
+#event{
+    padding: 30px;
+}
+.pb-30{
+    padding-bottom: 30px !important;
+}
+.icon-box{
+    margin-bottom: 20px;
+    padding: 15px !important;
+    border: 1px solid #eeeeee !important;
+}
+#event h4{
+    font-size: 15px !important;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-family: 'Merriweather', serif;
+    font-weight: 600;
+    line-height: 1.42857143;
+    color: #316DC3;
+    margin-bottom: 10px;
+}
+.mb-md-50{
+    padding-top: 50px !important;
+}
+.mb-15{
+    margin-bottom: 15pt !important;
+}
+/* .gallery-item{
+    height: 200px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 20%;
+    padding-right: 2px;
+    padding-bottom: 2px;
+}
+.gutter-small {
+    height: 200px;
+}
+.gallery-item1{
+    left: 228px;
+    position: absolute;
+    height: 200px;
+}
+
+.gallery-item2{
+    position: absolute; 
+    left: 456px; 
+    top: 0px;
+}
+.gallery-item4{
+    position: absolute; 
+    left: 684px; 
+    top: 0px;
+}
+.gallery-item5{
+    position: absolute; 
+    left: 912px; 
+    top: 0px;
+} */
+.gutter-small img{
+    height: 150px;
+    width: 220px;
+    margin-left: 8px;
+}
+.gutter-small {
+    height: 300px;
+}
+#gallery{
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.footer{
+    background-image: url(images/footer-bg.png);
+    background-position: initial !important;
+    background-size: initial !important;
+    background-repeat: initial !important;
+    background-attachment: initial !important;
+    background-origin: initial !important;
+    background-clip: initial !important;
+    background-color: rgb(37, 39, 46) !important;
+}
+.pb-40 {
+    padding-bottom: 40px !important;
+}
+.pt-70 {
+    padding-top: 70px !important;
+}
+.dark{
+color: #bbb;
+}
+.widget {
+    margin-bottom: 30px;
+}
+.mt-5{
+    margin-top: 5px !important;
+}
+.mr-5 {
+    color: #427900 !important;
+    margin-right: 5px !important;
+}
+.widget ul li{
+    padding-bottom: 5px;
+}
+.pl-10 {
+    padding-left: 10px !important;
+}
+.pr-10 {
+    padding-right: 10px !important;
+}
+
+.icon-dark a{
+    background-color: #316DC3;
+    color: #fff;
+}
+.styled-icons.icon-sm a {
+    font-size: 13px;
+    height: 30px;
+    line-height: 30px;
+    margin: 2px 7px 2px 0;
+    width: 30px;
+}
+.styled-icons.icon-circled a {
+    border-radius: 50%;
+}
+.widget-title{
+    color: white;
+    font-family: 'Merriweather', serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    margin-top: 10px;
+}
+
+.bg-black-333 {
+    background-color: #316DD9 !important;
+}
+.pt-15{
+    padding-top: 15px !important;
+}
+
+.font-11 {
+    color:white;
+    font-size: 11px !important;
+}
+.para{
+    text-align: justify;
+    visibility: visible;
+line-height: 1.9;
+}
+.mt-15 {
+    margin-top: 15px !important;
+}
+.text-left {
+    text-align: left;
+}
+/* .menuzord-menu  li {
+    padding: 18px 0;
+} */
+
+.menuzord-menu ul.dropdown-menu li {
+    /* clear: both;
+    width: 100%;
+    border: 0 none; */
+    border: 0 none;
+    font-size: 12px;
+    /* position: relative; */
+}
+
+.dropdown-menu li {
+    display: block;
+}
+/* .dropdown-menu li a{
+   
+} */
